@@ -11,6 +11,10 @@ Tech Steck:
 
 Setup Project:
 ```bash
+# clone repository
+git clone https://github.com/FarelNandaS/WeatherCek.git #untuk clone via https
+git clone git@github.com:FarelNandaS/WeatherCek.git #untuk clone via ssh
+
 # buat virtual environment baru
 python -m venv env
 
